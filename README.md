@@ -1,4 +1,4 @@
-# lista de referencias Odoo
+# Lista de referencias Odoo
 Site oficial do Odoo
 Site: https://www.odoo.com
 
